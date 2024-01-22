@@ -1,0 +1,13 @@
+
+u
+java:S1104"XMake listProducts a static final constant or non-public and provide accessors if needed.(¸©8®Ãˆ’Ò1
+O
+java:S1444"2Make this "public static listProducts" field final(¸©8¯Ãˆ’Ò1
+g
+java:S1124+"EReorder the modifiers to comply with the Java Language Specification.(à”Ñøøÿÿÿÿ8ÖÃˆ’Ò1
+D
+java:S2386-"'Make member "listProducts" "protected".(ë«Õ—8ÖÃˆ’Ò1
+;
+java:S2119B"Save and re-use this "Random".(·œ‡°8ÛÃˆ’Ò1
+L	java:S106X"+Replace this use of System.out by a logger.(ºûáùÿÿÿÿ8ÜÃˆ’Ò1
+L	java:S106Y"+Replace this use of System.out by a logger.(ú±æòùÿÿÿÿ8İÃˆ’Ò1
