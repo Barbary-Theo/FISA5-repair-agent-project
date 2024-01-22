@@ -1,14 +1,0 @@
-
-?
-java:S1948#""Make "parts" private or transient.(ùà°®8ëèÔ¦Ò1
-:
-java:S2119+"Save and re-use this "Random".(Ö•Ë]8îèÔ¦Ò1
-W
-java:S1161>":Add the "@Override" annotation above this method signature(«×Ú8ğèÔ¦Ò1
-a
-java:S3358\"DExtract this nested ternary operation into an independent statement.(ãÖÇ£8òèÔ¦Ò1
-E	java:S108^")Either remove or fill this block of code.(‰È¸8òèÔ¦Ò1
-a
-java:S3358e"DExtract this nested ternary operation into an independent statement.(ßÓÔÊ8óèÔ¦Ò1
-E	java:S108g")Either remove or fill this block of code.(‰È¸8óèÔ¦Ò1
-E	java:S108o")Either remove or fill this block of code.(‰È¸8ôèÔ¦Ò1

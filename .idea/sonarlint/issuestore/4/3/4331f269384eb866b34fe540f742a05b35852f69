@@ -1,28 +1,0 @@
-
-i
-java:S1192*"GDefine a constant instead of duplicating this literal "repair" 3 times.(—¶·Ôşÿÿÿÿ8Êî¹Ò1
-b
-java:S2184o"@Cast one of the operands of this addition operation to a "long".(°œëâûÿÿÿÿ8Ìî¹Ò1
-]
-java:S2184w"@Cast one of the operands of this addition operation to a "long".(úî‹8Ìî¹Ò1
-;
-java:S2119!"Save and re-use this "Random".(…·¤8åî¹Ò1
-W
-java:S1161.":Add the "@Override" annotation above this method signature(«×Ú8çî¹Ò1
-E	java:S108`")Either remove or fill this block of code.(‰È¸8éî¹Ò1
-E	java:S108h")Either remove or fill this block of code.(‰È¸8êî¹Ò1
-:
-java:S2119n"Save and re-use this "Random".(¼İÅf8êî¹Ò1
-E	java:S108p")Either remove or fill this block of code.(‰È¸8ëî¹Ò1
-:
-java:S2119v"Save and re-use this "Random".(¼İÅf8ëî¹Ò1
-E	java:S108x")Either remove or fill this block of code.(‰È¸8ëî¹Ò1
-F	java:S108€")Either remove or fill this block of code.(‰È¸8ìî¹Ò1
-F	java:S108ˆ")Either remove or fill this block of code.(‰È¸8ìî¹Ò1
-\
-java:S1854">Remove this useless assignment to local variable "faultyPart".(î­µº8íî¹Ò1
-M
-java:S1481"/Remove this unused "faultyPart" local variable.(î­µº8íî¹Ò1
-O
-java:S1481"1Remove this unused "isRepairable" local variable.(¢±×8íî¹Ò1
-F	java:S108")Either remove or fill this block of code.(‰È¸8îî¹Ò1
