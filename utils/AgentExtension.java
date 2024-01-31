@@ -8,7 +8,7 @@ import jade.lang.acl.ACLMessage;
 import java.io.IOException;
 import java.io.Serializable;
 
-public class UtilsMessage extends AgentWindowed implements Serializable {
+public class AgentExtension extends AgentWindowed implements Serializable {
 
     public void sendMessage(AID targetAgent, MessageContent messageContent, String messageID, Integer messageType) {
         ACLMessage replyMessage = new ACLMessage(messageType);

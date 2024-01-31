@@ -3,7 +3,7 @@ package handsOn.circularEconomy.agents;
 import handsOn.circularEconomy.DataTransfert.request.*;
 import handsOn.circularEconomy.DataTransfert.response.*;
 import handsOn.circularEconomy.data.*;
-import handsOn.circularEconomy.utils.UtilsMessage;
+import handsOn.circularEconomy.utils.AgentExtension;
 import jade.core.AID;
 import jade.core.AgentServicesTools;
 import jade.core.behaviours.CyclicBehaviour;
@@ -18,7 +18,7 @@ import java.time.LocalDate;
 import java.util.*;
 import java.util.List;
 
-public class RepairCoffeeAgent extends UtilsMessage implements Serializable {
+public class RepairCoffeeAgent extends AgentExtension implements Serializable {
 
     private List<ProductType> specialities;
     private List<PartStorePartAvailabilityResponse> partsAvailabilityResponse = new ArrayList<>();

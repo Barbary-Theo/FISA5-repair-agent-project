@@ -7,7 +7,7 @@ import handsOn.circularEconomy.data.MessageId;
 import handsOn.circularEconomy.data.Product;
 import handsOn.circularEconomy.data.ProductType;
 import handsOn.circularEconomy.gui.UserAgentWindow;
-import handsOn.circularEconomy.utils.UtilsMessage;
+import handsOn.circularEconomy.utils.AgentExtension;
 import jade.core.AID;
 import jade.core.AgentServicesTools;
 import jade.core.behaviours.CyclicBehaviour;
@@ -19,7 +19,7 @@ import java.io.Serializable;
 import java.text.DecimalFormat;
 import java.util.*;
 
-public class UserAgent extends UtilsMessage implements Serializable {
+public class UserAgent extends AgentExtension implements Serializable {
     private List<Product> products;
     private int skill;
     private UserAgentWindow window;

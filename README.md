@@ -25,8 +25,8 @@ Au lancement, les classes des agents s'initialisent :
 
 ### 🗄️ Structure du projet 
 
-La communication par les agents se fait via la class UtilsMessage étendu par tous les agents. Elle implémente la méthode "send" pour envoyer un message à un autre agent.
-Cette méthode "send" prend en paramètre l'agent target, le contenu du message sous l'objet MessageContent (j'y reviens ci-après) le message ID et le type de message (REQUEST, INFORM, etc.).
+La communication par les agents se fait via la class AgentExtension étendu par tous les agents. Elle implémente la méthode "send" pour envoyer un message à un autre agent.
+Cette méthode "send" prend en paramètre l'agent ciblé, le contenu du message sous l'objet MessageContent (j'y reviens ci-après) le message ID et le type de message (REQUEST, INFORM, etc.).
 
 L'interface MessageContent permet est implémenté par tous les objets d'envoie (présent dans le package DataTransfert). Ces classes permettent d'échanger des informations entre les agents de façon simple est clair. Chaque objet est utilisé lors de la communication entre les agents.
 La classe MessageID correspond simplement à une genre d'enum contentant tous les ID de messages possibles, elle permet l'uniformité des ID entre les agents.

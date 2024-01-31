@@ -2,17 +2,14 @@ package handsOn.circularEconomy.agents;
 
 import handsOn.circularEconomy.DataTransfert.request.PartStoreBuyPartRequest;
 import handsOn.circularEconomy.DataTransfert.request.PartStorePartAvailabilityRequest;
-import handsOn.circularEconomy.DataTransfert.request.RepairCoffeeAskForRendezVousRequest;
 import handsOn.circularEconomy.DataTransfert.response.ErrorResponse;
 import handsOn.circularEconomy.DataTransfert.response.PartStoreBuyPartResponse;
 import handsOn.circularEconomy.DataTransfert.response.PartStorePartAvailabilityResponse;
-import handsOn.circularEconomy.DataTransfert.response.RepairCoffeeAskForRendezVousResponse;
 import handsOn.circularEconomy.data.MessageId;
 import handsOn.circularEconomy.data.Part;
-import handsOn.circularEconomy.utils.UtilsMessage;
+import handsOn.circularEconomy.utils.AgentExtension;
 import jade.core.AgentServicesTools;
 import jade.core.behaviours.CyclicBehaviour;
-import jade.gui.AgentWindowed;
 import jade.gui.SimpleWindow4Agent;
 import jade.lang.acl.ACLMessage;
 import jade.lang.acl.MessageTemplate;
@@ -20,7 +17,6 @@ import jade.lang.acl.UnreadableException;
 
 import java.awt.*;
 import java.io.Serializable;
-import java.time.LocalDate;
 import java.util.*;
 import java.util.List;
 
@@ -30,7 +26,7 @@ import java.util.List;
  * It an infitine number of specific part wih a pecific cost ( up to 30% more than the standard price)
  * @author emmanueladam
  * */
-public class PartStoreAgent extends UtilsMessage implements Serializable {
+public class PartStoreAgent extends AgentExtension implements Serializable {
 
     List<Part> parts;
     private boolean isSecondHandSpecialist = false;
