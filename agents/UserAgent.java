@@ -337,6 +337,7 @@ public class UserAgent extends UtilsMessage implements Serializable {
         if(bestRendezVous != null && this.currentWallet >= 5) {
             this.currentWallet -= 5;
             sendMessage(bestRendezVous.getSender(), new RepairCoffeeSelectionRequest(this.productToRepair, bestRendezVous.getSender(), bestRendezVous.getDate()), MessageId.SELECT_RENDEZ_VOUS_TO_REPAIR, ACLMessage.REQUEST);
+            terminateToRepair();
         }
         else if(this.currentWallet < 5) println("I don't have enough money to reserved the rendez vous...");
         terminateToRepair();

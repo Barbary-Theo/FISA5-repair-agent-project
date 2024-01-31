@@ -1,17 +1,28 @@
 
+i
+java:S1192*"GDefine a constant instead of duplicating this literal "repair" 3 times.(—¶·Ôşÿÿÿÿ8¦øÕ1
+b
+java:S2184o"@Cast one of the operands of this addition operation to a "long".(°œëâûÿÿÿÿ8¨øÕ1
 ]
-java:S2184]"@Cast one of the operands of this addition operation to a "long".(İÕİĞ8®êå¡Ò1
-
-java:S1186b"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£ÉÑ‹8¼êå¡Ò1
+java:S2184w"@Cast one of the operands of this addition operation to a "long".(úî‹8¨øÕ1
 ;
-java:S2119&"Save and re-use this "Random".(…·¤8¿êå¡Ò1
+java:S2119!"Save and re-use this "Random".(…·¤8ÔøÕ1
 W
-java:S11614":Add the "@Override" annotation above this method signature(«×Ú8Áêå¡Ò1
-E	java:S108V")Either remove or fill this block of code.(‰È¸8Âêå¡Ò1
+java:S1161.":Add the "@Override" annotation above this method signature(«×Ú8×øÕ1
+E	java:S108`")Either remove or fill this block of code.(‰È¸8ÜøÕ1
+E	java:S108h")Either remove or fill this block of code.(‰È¸8ŞøÕ1
 :
-java:S2119\"Save and re-use this "Random".(¼İÅf8Ãêå¡Ò1
-E	java:S108_")Either remove or fill this block of code.(‰È¸8Ãêå¡Ò1
-K
-java:S1172b".Remove this unused method parameter "message".(£ÉÑ‹8Ãêå¡Ò1
-U
-java:S1144L"3Remove this unused private "analyseProduct" method.(œ¾óøÿÿÿÿ8Ãêå¡Ò1
+java:S2119n"Save and re-use this "Random".(¼İÅf8ŞøÕ1
+E	java:S108p")Either remove or fill this block of code.(‰È¸8ßøÕ1
+:
+java:S2119v"Save and re-use this "Random".(¼İÅf8àøÕ1
+E	java:S108x")Either remove or fill this block of code.(‰È¸8áøÕ1
+F	java:S108")Either remove or fill this block of code.(‰È¸8âøÕ1
+F	java:S108‰")Either remove or fill this block of code.(‰È¸8äøÕ1
+\
+java:S1854">Remove this useless assignment to local variable "faultyPart".(î­µº8åøÕ1
+M
+java:S1481"/Remove this unused "faultyPart" local variable.(î­µº8åøÕ1
+O
+java:S1481‘"1Remove this unused "isRepairable" local variable.(¢±×8æøÕ1
+F	java:S108")Either remove or fill this block of code.(‰È¸8çøÕ1

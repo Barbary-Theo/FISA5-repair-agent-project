@@ -21,22 +21,10 @@ C
 data/MessageID.java,a/4/a47876b1eb0cb371a29b202c36ff00a673d35f8d
 C
 data/MessageId.java,b/8/b88dce9069074352ebe80501a0a26b2c96ab741a
-[
-+DataTransfert/RepairCoffeeAbleToRepair.java,e/0/e041c755b943c0e8c3356e801569009bced4fdb2
-N
-DataTransfert/DataReponse.java,e/2/e252553f1f34fe705bce0465a549a8bf0fca6c33
-O
-DataTransfert/DataResponse.java,c/4/c467205ae9c89610fe892e6649f65d82a81cb543
 G
 utils/UtilsMessage.java,5/8/58e45924cffa3090055177ef849a8a41e07ca770
 Q
 !DataTransfert/MessageContent.java,8/8/88dd1407a046f18e4e5ebbee3f7f647a3b7eba3d
-d
-4DataTransfert/response/RepairCoffeeAbleToRepair.java,e/4/e4651719476f38dbde853e867c05d3dcd28951f5
-l
-<DataTransfert/response/RepairCoffeeAbleToRepairResponse.java,b/8/b82aa9068c3d8ea53a0f846ad18eff57ab3fe9f1
-j
-:DataTransfert/request/RepairCoffeeAbleToRepairRequest.java,6/d/6de86ad976d95e75a7088bb8e88c2471e703186f
 n
 >DataTransfert/request/RepairCoffeeAskForRendezVousRequest.java,5/2/52d4b8985c42bca246fe38b2a67ffc2646b6a0ac
 p
@@ -53,3 +41,11 @@ b
 2DataTransfert/request/PartStoreBuyPartRequest.java,e/c/ec0660827fa305f8bab38603783a10f3fba32aab
 d
 4DataTransfert/response/PartStoreBuyPartResponse.java,a/9/a9c6d88b2d2a6e967ff4944e218472840510c047
+Y
+)DataTransfert/response/ErrorResponse.java,1/3/13791a47c188769248145e68e11b67704b7e955d
+i
+9DataTransfert/response/RepairCoffeeSelectionResponse.java,8/3/8327a39e156eea910e44f2980c7d117721c0512a
+p
+@DataTransfert/request/RepairCoffeeGoToHelpRendezVousRequest.java,b/1/b1d4359a955d5dfa4068d83c957fbc88be8b6c15
+o
+?DataTransfert/response/RepairCoffeeHelpInformationResponse.java,7/9/791429a3684d166e3d7474c849cafe69595d03b7

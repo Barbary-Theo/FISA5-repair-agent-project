@@ -125,6 +125,7 @@ public class RepairCoffeeAgent extends UtilsMessage implements Serializable {
             RepairCoffeeSelectionRequest request = (RepairCoffeeSelectionRequest) message.getContentObject();
             println("Booked a rendez vous to repair the " + request.getDateFormatted() + " for " + message.getSender().getLocalName());
             println(request.getRequestedProduct().getName() + " of " + message.getSender().getLocalName() + " is repaired");
+            this.partsAvailabilityResponse = new ArrayList<>();
         } catch (UnreadableException ignored) { }
     }
 

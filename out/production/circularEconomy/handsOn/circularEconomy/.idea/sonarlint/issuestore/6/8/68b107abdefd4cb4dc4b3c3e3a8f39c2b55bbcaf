@@ -1,19 +1,55 @@
 
 d
-java:S1192g"GDefine a constant instead of duplicating this literal "repair" 4 times.(Ã¶Ë8æœÙ¡Ò1
+java:S1192y"GDefine a constant instead of duplicating this literal "repair" 5 times.(Ã¶Ë8Ó–ºöÕ1
+‰
+java:S1192ü"fDefine a constant instead of duplicating this literal "I don't have enough to buy parts for " 4 times.(Íø•ÿøÿÿÿÿ8Ô–ºöÕ1
+d
+java:S1192y"GDefine a constant instead of duplicating this literal "coffee" 3 times.(Ã¶Ë8Ô–ºöÕ1
 O
-java:S2387""3"window" is the name of a field in "AgentWindowed".(­üÉ:8ıœÙ¡Ò1
+java:S2387"3"window" is the name of a field in "AgentWindowed".(­üÉ:8÷˜ºöÕ1
 :
-java:S2119/"Save and re-use this "Random".(Ö•Ë]8‚Ù¡Ò1
+java:S2119("Save and re-use this "Random".(Ö•Ë]8­™ºöÕ1
 :
-java:S21191"Save and re-use this "Random".(¼İÅf8ƒÙ¡Ò1
+java:S2119*"Save and re-use this "Random".(¼İÅf8®™ºöÕ1
+J	java:S1088")Either remove or fill this block of code.(ÔµØşøÿÿÿÿ8º™ºöÕ1
+J	java:S108=")Either remove or fill this block of code.(ÔµØşøÿÿÿÿ8¼™ºöÕ1
 W
-java:S1161F":Add the "@Override" annotation above this method signature(«×Ú8ˆÙ¡Ò1
-8
-java:S3626}"Remove this redundant jump.(ûÁİ…8Ù¡Ò1
+java:S1161E":Add the "@Override" annotation above this method signature(«×Ú8Í™ºöÕ1
+o
+java:S3776s"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ğÈ‡‰8Ø™ºöÕ1
 _
-java:S1854“"<Remove this useless assignment to local variable "response".(¸ÓĞœÿÿÿÿÿ8‘Ù¡Ò1
+java:S1854¬"<Remove this useless assignment to local variable "response".(¸ÓĞœÿÿÿÿÿ8è™ºöÕ1
+P
+java:S1481¬"-Remove this unused "response" local variable.(¸ÓĞœÿÿÿÿÿ8ë™ºöÕ1
 ;
-java:S2119Ç"Save and re-use this "Random".(¼İÅf8”Ù¡Ò1
+java:S2119à"Save and re-use this "Random".(¼İÅf8ú™ºöÕ1
 X
-java:S1161ë":Add the "@Override" annotation above this method signature(äŞãŠ8–Ù¡Ò1
+java:S1161„":Add the "@Override" annotation above this method signature(äŞãŠ8‡šºöÕ1
+u
+java:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(Ñ—×³ùÿÿÿÿ8©šºöÕ1
+9
+java:S3626ù"Remove this redundant jump.(ûÁİ…8«šºöÕ1
+9
+java:S3626ş"Remove this redundant jump.(ûÁİ…8«šºöÕ1
+9
+java:S3626†"Remove this redundant jump.(ûÁİ…8«šºöÕ1
+9
+java:S3626‹"Remove this redundant jump.(ûÁİ…8«šºöÕ1
+9
+java:S3626•"Remove this redundant jump.(ûÁİ…8«šºöÕ1
+9
+java:S3626š"Remove this redundant jump.(ûÁİ…8«šºöÕ1
+9
+java:S3626¥"Remove this redundant jump.(ûÁİ…8«šºöÕ1
+9
+java:S3626ª"Remove this redundant jump.(ûÁİ…8«šºöÕ1
+9
+java:S3626°"Remove this redundant jump.(ûÁİ…8«šºöÕ1
+9
+java:S3626¸"Remove this redundant jump.(ûÁİ…8¬šºöÕ1
+9
+java:S3626¾"Remove this redundant jump.(ûÁİ…8¬šºöÕ1
+;
+java:S2119ò"Save and re-use this "Random".(¼İÅf8®šºöÕ1
+;
+java:S2119Ÿ"Save and re-use this "Random".(¼İÅf8¸šºöÕ1
