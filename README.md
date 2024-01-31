@@ -32,6 +32,6 @@ L'interface MessageContent permet est implémenté par tous les objets d'envoie 
 La classe MessageID correspond simplement à une genre d'enum contentant tous les ID de messages possibles, elle permet l'uniformité des ID entre les agents.
 
 
-### Diagrammes
+### 🗂️ Diagrammes
 
 Tous les diagrammes et des explications plus précises du fonctionnement du projet sont présents dans le rapport.
